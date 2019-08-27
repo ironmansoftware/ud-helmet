@@ -38,7 +38,7 @@ $manifestParameters = @{
 		"New-UDHelmet"
 		"New-UDHtmlTag"
 	)
-	IconUri = ""
+	IconUri = "https://github.com/ironmansoftware/ud-helmet/raw/master/images/react-helmet.jfif"
   RequiredModules = @()
 }
 

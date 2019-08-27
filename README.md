@@ -33,4 +33,4 @@ $Dashboard = New-UDDashboard -Title "Test" -Content {
 Start-UDDashboard -Dashboard $Dashboard -Port 10000 -Force 
 ```
 
-![](.\images\example.png)
+![](./images/example.png)
